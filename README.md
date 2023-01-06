@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cy-table
 
 Sample project to demonstrate how to navigate and assert on HTML tables using Cypress.
@@ -25,3 +26,7 @@ If you want to support this project, leave a ⭐.
 ___
 
 This project was created with 💚 by [Walmyr](https://walmyr.dev).
+=======
+# Cy-Table
+Aprendendo - Como navegar em tabelas HTML usando o Cypress.
+>>>>>>> 40240605c82e45cda10d840e2cbcc2c96aa5d601
