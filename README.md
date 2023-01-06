@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# cy-table
-
-=======
 # cy-table
 
 (Lay-RosaLauren) - Learning Cypress 
 
->>>>>>> 96d4757eeca722383fb4153795d5042ade6fbeb7
 Sample project to demonstrate how to navigate and assert on HTML tables using Cypress.
 
 ## Pre-requirements
@@ -29,9 +23,6 @@ Or, run `npm run cy:open` to open Cypress in interactive mode.
 ## Support this project
 
 If you want to support this project, leave a ⭐.
-
-___
-<<<<<<< HEAD
 
 This project was created with 💚 by [Walmyr](https://walmyr.dev).
 =======
